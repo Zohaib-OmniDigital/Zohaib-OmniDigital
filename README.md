@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Zohaib%20Tahir!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" alt="Zohaib's Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001B48&height=250&section=header&text=Hi,%20I'm%20Zohaib%20Tahir!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=FF8C00" alt="Zohaib's Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Crafting+Flawless+Mobile+Experiences;Solving+Complex+Technical+Puzzles;Turning+Ideas+into+Scalable+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Crafting+Flawless+Mobile+Experiences;Solving+Complex+Technical+Puzzles;Turning+Ideas+into+Scalable+Reality" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,9 +11,9 @@
 ###  About Me
 I am a passionate **Application Developer & UI/UX Enthusiast** dedicated to building high-performance, flawlessly designed mobile applications. I specialize in taking complex business logic and transforming it into seamless, intuitive, and scalable digital solutions for business owners—eliminating the technical headaches so you can focus on growth.
 
-* 🏢 **Brand & Portfolio:** [OmniDigital](#) *(Your digital footprint)*
+* 🏢 **Brand & Portfolio:** OmniDigital *(Your digital footprint)*
 * 🌱 **Currently focusing on:** Advanced Mobile Architectures, Seamless UI/UX, & API Integrations.
-* 💬 **Ask me about:** React Native, Flutter, App Scaling, and modern design principles.
+* 💬 **Ask me about:** React Native, Flutter, Supabase, and modern design principles.
 * ⚡ **Fun fact:** I believe a top-tier app is 50% brilliant code and 50% exceptional design.
 
 ---
@@ -46,12 +46,12 @@ I am a passionate **Application Developer & UI/UX Enthusiast** dedicated to buil
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zohaib-OmniDigital&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zohaib's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaib-OmniDigital&theme=tokyonight&hide_border=true&background=0D1117" alt="Zohaib's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zohaib-OmniDigital&show_icons=true&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=001B48&hide_border=true" alt="Zohaib's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaib-OmniDigital&stroke=FF8C00&background=001B48&ring=FF8C00&fire=FF8C00&currStreakNum=ffffff&currStreakLabel=FF8C00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Zohaib's GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-OmniDigital&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-OmniDigital&layout=compact&title_color=FF8C00&text_color=ffffff&bg_color=001B48&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -59,7 +59,7 @@ I am a passionate **Application Developer & UI/UX Enthusiast** dedicated to buil
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-OmniDigital&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Zohaib's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-OmniDigital&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Zohaib's Trophies" />
   </a>
 </div>
 
@@ -69,13 +69,10 @@ I am a passionate **Application Developer & UI/UX Enthusiast** dedicated to buil
 Have an idea that needs to be turned into a flawless mobile app? Or need to fix a broken architecture? Let's connect and make it happen.
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:appdeveloperzohaib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/infozohaibtahir/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
 </div>
